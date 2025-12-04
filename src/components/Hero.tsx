@@ -26,7 +26,7 @@ export default function Hero() {
 
 
     return (
-        <div className="flex flex-col items-start px-6 sm:px-10 md:px-[120px] lg:px-[170px] mt-24 sm:mt-32 lg:mt-44">
+        <div className="flex flex-col items-start px-6 sm:px-10 md:px-[120px] lg:px-[140px] mt-24 sm:mt-32 lg:mt-44">
             <div className="flex items-center justify-center gap-2">
                 <Hand className="text-(--highlight) wave" strokeWidth={2.25} />
                 <span className="text-[16px]">Hey! It&apos;s me Tayseer,</span>

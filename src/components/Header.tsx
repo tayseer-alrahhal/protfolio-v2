@@ -83,7 +83,7 @@ export default function Header() {
     const styleClass =
         scrollStep === 0
             ? 'border-[var(--bg-700)]'
-            : 'md:bg-[var(--backdrop)] md:backdrop-blur-[12px] md:rounded-full md:border md:border-[var(--bg-700)]';
+            : 'md:bg-[var(--backdrop)] md:backdrop-blur-[8px] md:rounded-full md:border md:border-[var(--bg-700)]';
 
     return (
         <header

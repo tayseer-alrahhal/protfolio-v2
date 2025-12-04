@@ -256,6 +256,10 @@ body {
   animation: slider 25s linear infinite;
 }
 
+.animate-slider2 {
+  animation: slider 20s linear infinite;
+}
+
 @keyframes slider {
   0% {
     transform: translateX(0);

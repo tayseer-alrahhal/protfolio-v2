@@ -11,22 +11,22 @@ export default function Footer() {
         {
             name: "LinkedIn",
             icon: <Linkedin className='w-[20px] h-[20px]' />,
-            link: "https://www.linkedin.com/in/tayseer-alrahhal-942334223/",
+            link: "https://www.linkedin.com/in/tayseer-alrahhal/",
         },
         {
             name: "GitHub",
             icon: <Github className='w-[20px] h-[20px]' />,
-            link: "https://github.com/TayseerAlrahhal",
+            link: "https://github.com/tayseer-alrahhal",
         },
         {
             name: "Instagram",
             icon: <Instagram className='w-[20px] h-[20px]' />,
-            link: "https://www.instagram.com/tayseeralrahhal/",
+            link: "https://www.instagram.com/tayseer_alrahhal/",
         },
         {
             name: "Email",
             icon: <Mail className='w-[20px] h-[20px]' />,
-            link: "mailto:tayseeralrahhal@gmail.com",
+            link: "mailto:tayseer.alrahhal.dev@gmail.com",
         }
     ]
 
